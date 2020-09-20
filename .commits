@@ -1,0 +1,22 @@
+*Timeline of Work on Pacman*
+
+Septeber 13th - I started work on my assignment. I started with creating sprites for all the invividual sprites and prefabs. It was quite simple considering I've done so before,
+it just took a long time considering the amount of sprites and animations I had to make. I ended all of this in the same day.
+
+September 14th - I went back and turned all my sprites and animations into animator controllers. This again was quite simple, as I already knew how to do such things from an
+earlier lab. I created animation controllers for the four main ghosts and pacman. I also went online and downloaded all my audio files and music for my game.
+
+September 15th - I tried making a script for my music to work, but couldn't seem to figure it out. I eventually ended up googling help from online sources, and managed to
+get it working in the end. I then starded on my level generator script. I first started by making the 2d array into a grid, and making each part of an array an x and y value.
+Ie: [3, 6] would be a corner piece (theoretically.) I then went through and made 210 lines of code, one for each number on the grid. After doing so, I ran into a bug, and 
+couldn't seem to fix it (the error code ran over every line of code). So, I scratched that and instead turned into a more simple version - if and if else statements for when
+the 2D array == a value, it instantiated said prefab. Yet I couldn't manage to get it working. I decided to leave it and get back to it.
+
+September 17th - I went online to GitHub and tried making my repository. However, I am not so knowledgeable in how to do so. It took me a very long time to navigate my way around,
+and I still managed to get lost. After reading the guide, I managed to make my branches specified in the assignment guide. However, after that, I was back to being lost. This
+seriously dampened my motivation for the assignment, and decided to leave it to work on other assignments.
+
+September 20th - I go back and try to work on my level generator. After googling possible solutions, I simply could not understand how to get it done. This ruined my motivation,
+and hence decided to leave it so I could work on pacmans movement. Pacmans animated movement was quite simple, and managed to get it done due to my understanding from previous
+labs. However, a very annoying error from the console ate up a large portion of my time, and I couldn't manage to get it fixed. After spending an hour on possible solutions, I 
+decided to call it a day, email for help and wait for a response. This was the end of me working on my assignment. 
